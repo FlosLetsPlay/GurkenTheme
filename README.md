@@ -8,7 +8,7 @@ Je nach Farbschema kann automatisch ein passendes Emoji (z. B. 🥒, 🍂, ❄�
 Zur Inspiration enthält der Customizer eine übersichtliche Liste mit Emojis zu typischen Jahreszeiten und Feiertagen (🎃 Halloween, 🎄 Weihnachten, 🌸 Frühling u.v.m.). 
 Zusätzliche Emojis und Saisonthemen lassen sich über Filter einfach erweitern.
 
-Weitere Features:
+## Weitere Features:
 – Anpassbares Logo, Header-Button und Navigationslinks
 – Individuelle Kontaktangaben (Telefon, E-Mail)
 – Konfigurierbare News-Sektion mit Beitragslimit und Überschrift
